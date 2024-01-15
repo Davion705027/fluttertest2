@@ -1,0 +1,1755 @@
+[
+    {
+        "ticketSeriesCode": "JKC",
+        "ticketSeriesId": 99,
+        "ticketSeriesName": "即开彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 81,
+                "ticketName": "竞速PK10",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": true
+            },
+            {
+                "ticketId": 80,
+                "ticketName": "竞速秒秒彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": true,
+                "saleDay": " "
+            },
+            {
+                "ticketId": 82,
+                "ticketName": "竞速快三",
+                "groupMode": 0,
+                "path": null,
+                "code": "K3",
+                "isJKC": true,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 83,
+                "ticketName": "竞速11选5",
+                "groupMode": 0,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": true,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 287,
+                "ticketName": "竞速KENO",
+                "groupMode": 3,
+                "path": null,
+                "code": "KENO",
+                "isJKC": true
+            },
+            {
+                "ticketId": 281,
+                "ticketName": "竞速幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": true,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "PK10",
+        "ticketSeriesId": 6,
+        "ticketSeriesName": "PK10",
+        "ticketTypeList": [
+            {
+                "ticketId": 293,
+                "ticketName": "DB PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 275,
+                "ticketName": "PM PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 201,
+                "ticketName": "OB Royal PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 190,
+                "ticketName": "6T 1分PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 191,
+                "ticketName": "6T 5分PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 153,
+                "ticketName": "乐冠PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 115,
+                "ticketName": "安博飞艇",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 116,
+                "ticketName": "安博幸运10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 61,
+                "ticketName": "中欧飞艇",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 51,
+                "ticketName": "官方飞艇",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 81,
+                "ticketName": "竞速PK10",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": true
+            },
+            {
+                "ticketId": 67,
+                "ticketName": "极速赛车",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 48,
+                "ticketName": "极速飞艇",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 68,
+                "ticketName": "幸运飞艇",
+                "groupMode": 0,
+                "path": "http://172.18.3.119:8002/f3a68235-6f03-4849-8237-e459783c65d4west.png",
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "SSC",
+        "ticketSeriesId": 1,
+        "ticketSeriesName": "时时彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 292,
+                "ticketName": "DB 5分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 274,
+                "ticketName": "PM 5分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 200,
+                "ticketName": "OB Royal 5分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 184,
+                "ticketName": "6T 1分时时彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 150,
+                "ticketName": "乐冠时时彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 117,
+                "ticketName": "安博分分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 118,
+                "ticketName": "安博5分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 60,
+                "ticketName": "中欧时时彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 80,
+                "ticketName": "竞速秒秒彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": true,
+                "saleDay": " "
+            },
+            {
+                "ticketId": 168,
+                "ticketName": "河内1分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 52,
+                "ticketName": "官方时时彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 45,
+                "ticketName": "幸运分分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 2,
+                "ticketName": "极速时时彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 57,
+                "ticketName": "腾讯分分彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 166,
+                "ticketName": "QQ分分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 55,
+                "ticketName": "幸运5分彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 7,
+                "ticketName": "澳洲幸运5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 56,
+                "ticketName": "河内5分彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 167,
+                "ticketName": "多彩河内5分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 37,
+                "ticketName": "奇趣腾讯分分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "LHC",
+        "ticketSeriesId": 3,
+        "ticketSeriesName": "六合彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 297,
+                "ticketName": "DB 六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 279,
+                "ticketName": "PM 六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 273,
+                "ticketName": "台湾大乐透",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "2,5"
+            },
+            {
+                "ticketId": 264,
+                "ticketName": "法拉利·拉法六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 192,
+                "ticketName": "6T 1分六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 193,
+                "ticketName": "6T 5分六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 180,
+                "ticketName": "冠军六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 162,
+                "ticketName": "欧博六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 154,
+                "ticketName": "乐冠六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 146,
+                "ticketName": "钻石六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 138,
+                "ticketName": "宝博六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 129,
+                "ticketName": "AOA六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 119,
+                "ticketName": "安博六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 114,
+                "ticketName": "凤凰六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 94,
+                "ticketName": "亿博极速六合",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 95,
+                "ticketName": "亿博大众六合",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 71,
+                "ticketName": "爱游戏六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 53,
+                "ticketName": "中欧六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 12,
+                "ticketName": "极速六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 59,
+                "ticketName": "六合5分彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 27,
+                "ticketName": "香港六合彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "2,4,6"
+            },
+            {
+                "ticketId": 36,
+                "ticketName": "澳门六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 304,
+                "ticketName": "新澳门六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "SYXW",
+        "ticketSeriesId": 2,
+        "ticketSeriesName": "11选5",
+        "ticketTypeList": [
+            {
+                "ticketId": 294,
+                "ticketName": "DB 11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 276,
+                "ticketName": "PM 11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 205,
+                "ticketName": "OB Royal 11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 186,
+                "ticketName": "6T 1分11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 187,
+                "ticketName": "6T 5分11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 151,
+                "ticketName": "乐冠11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 120,
+                "ticketName": "安博11选5",
+                "groupMode": 1,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 83,
+                "ticketName": "竞速11选5",
+                "groupMode": 0,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": true,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 46,
+                "ticketName": "极速11选5",
+                "groupMode": 0,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 58,
+                "ticketName": "幸运11选5",
+                "groupMode": 0,
+                "path": null,
+                "code": "SYXW",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "K3",
+        "ticketSeriesId": 7,
+        "ticketSeriesName": "快三",
+        "ticketTypeList": [
+            {
+                "ticketId": 295,
+                "ticketName": "DB 快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 277,
+                "ticketName": "PM 快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 203,
+                "ticketName": "OB Royal 快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 194,
+                "ticketName": "6T 1分快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 195,
+                "ticketName": "6T 5分快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 155,
+                "ticketName": "乐冠快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 121,
+                "ticketName": "安博快三",
+                "groupMode": 1,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 82,
+                "ticketName": "竞速快三",
+                "groupMode": 0,
+                "path": null,
+                "code": "K3",
+                "isJKC": true,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 50,
+                "ticketName": "极速快三",
+                "groupMode": 0,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 89,
+                "ticketName": "幸运快三",
+                "groupMode": 0,
+                "path": null,
+                "code": "K3",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "SD",
+        "ticketSeriesId": 4,
+        "ticketSeriesName": "3D",
+        "ticketTypeList": [
+            {
+                "ticketId": 188,
+                "ticketName": "6T 1分3D",
+                "groupMode": 1,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 189,
+                "ticketName": "6T 5分3D",
+                "groupMode": 1,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 152,
+                "ticketName": "乐冠3D",
+                "groupMode": 1,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 122,
+                "ticketName": "安博3D",
+                "groupMode": 1,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 17,
+                "ticketName": "极速3D",
+                "groupMode": 0,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 16,
+                "ticketName": "幸运3D",
+                "groupMode": 0,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 6,
+                "ticketName": "福彩3D",
+                "groupMode": 0,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 40,
+                "ticketName": "排列3/5",
+                "groupMode": 0,
+                "path": null,
+                "code": "P3P5",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "KLC",
+        "ticketSeriesId": 5,
+        "ticketSeriesName": "快乐8",
+        "ticketTypeList": [
+            {
+                "ticketId": 296,
+                "ticketName": "DB 快乐8",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 278,
+                "ticketName": "PM 快乐8",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 269,
+                "ticketName": "澳洲幸运20",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 202,
+                "ticketName": "OB Royal 快乐8",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 196,
+                "ticketName": "6T 1分快乐彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 197,
+                "ticketName": "6T 5分快乐彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 156,
+                "ticketName": "乐冠快乐彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 123,
+                "ticketName": "安博快乐彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 73,
+                "ticketName": "爱游戏快乐8",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 47,
+                "ticketName": "极速快乐8",
+                "groupMode": 0,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 26,
+                "ticketName": "福彩快乐8",
+                "groupMode": 0,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 291,
+                "ticketName": "台湾宾果",
+                "groupMode": 1,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "SSQ",
+        "ticketSeriesId": 12,
+        "ticketSeriesName": "双色球",
+        "ticketTypeList": [
+            {
+                "ticketId": 198,
+                "ticketName": "6T 1分双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 199,
+                "ticketName": "6T 5分双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 157,
+                "ticketName": "乐冠双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 149,
+                "ticketName": "钻石双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 124,
+                "ticketName": "安博双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 39,
+                "ticketName": "极速双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 49,
+                "ticketName": "幸运双色球",
+                "groupMode": 1,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 38,
+                "ticketName": "福彩双色球",
+                "groupMode": 0,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "2,4,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "XY28",
+        "ticketSeriesId": 19,
+        "ticketSeriesName": "幸运28",
+        "ticketTypeList": [
+            {
+                "ticketId": 298,
+                "ticketName": "DB 幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 282,
+                "ticketName": "PM幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 281,
+                "ticketName": "竞速幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": true,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 280,
+                "ticketName": "极速幸运28",
+                "groupMode": 0,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 285,
+                "ticketName": "台湾宾果28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 284,
+                "ticketName": "澳洲幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 283,
+                "ticketName": "福彩幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "539",
+        "ticketSeriesId": 21,
+        "ticketSeriesName": "539彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 302,
+                "ticketName": "今彩539",
+                "groupMode": 1,
+                "path": null,
+                "code": "539",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6"
+            },
+            {
+                "ticketId": 301,
+                "ticketName": "极速539",
+                "groupMode": 0,
+                "path": null,
+                "code": "539",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 303,
+                "ticketName": "幸运539",
+                "groupMode": 1,
+                "path": null,
+                "code": "539",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "WZ4D",
+        "ticketSeriesId": 13,
+        "ticketSeriesName": "万字4D",
+        "ticketTypeList": [
+            {
+                "ticketId": 84,
+                "ticketName": "万能万字",
+                "groupMode": 0,
+                "path": null,
+                "code": "WZ4D",
+                "isJKC": false,
+                "saleDay": "3,6,7"
+            },
+            {
+                "ticketId": 100,
+                "ticketName": "多多万字",
+                "groupMode": 1,
+                "path": null,
+                "code": "WZ4D",
+                "isJKC": false,
+                "saleDay": "3,7,6"
+            },
+            {
+                "ticketId": 101,
+                "ticketName": "大马万字",
+                "groupMode": 1,
+                "path": null,
+                "code": "WZ4D",
+                "isJKC": false,
+                "saleDay": "3,6,7"
+            },
+            {
+                "ticketId": 102,
+                "ticketName": "新加坡万字",
+                "groupMode": 1,
+                "path": null,
+                "code": "WZ4D",
+                "isJKC": false,
+                "saleDay": "3,6,7"
+            },
+            {
+                "ticketId": 85,
+                "ticketName": "极速万字",
+                "groupMode": 1,
+                "path": null,
+                "code": "WZ4D",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 103,
+                "ticketName": "幸运万字",
+                "groupMode": 1,
+                "path": null,
+                "code": "WZ4D",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "YNBBC",
+        "ticketSeriesId": 14,
+        "ticketSeriesName": "北部越南彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 209,
+                "ticketName": "幸运北越彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNBBC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "YNZBC",
+        "ticketSeriesId": 15,
+        "ticketSeriesName": "中部越南彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 217,
+                "ticketName": "承天顺化",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "1,7"
+            },
+            {
+                "ticketId": 218,
+                "ticketName": "富安",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "1"
+            },
+            {
+                "ticketId": 219,
+                "ticketName": "得乐",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "2"
+            },
+            {
+                "ticketId": 220,
+                "ticketName": "广南",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "2"
+            },
+            {
+                "ticketId": 221,
+                "ticketName": "岘港",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "3,6"
+            },
+            {
+                "ticketId": 222,
+                "ticketName": "庆和",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "3,7"
+            },
+            {
+                "ticketId": 223,
+                "ticketName": "平定",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "4"
+            },
+            {
+                "ticketId": 224,
+                "ticketName": "广平",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "4"
+            },
+            {
+                "ticketId": 225,
+                "ticketName": "广治",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "4"
+            },
+            {
+                "ticketId": 226,
+                "ticketName": "嘉莱",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "5"
+            },
+            {
+                "ticketId": 227,
+                "ticketName": "宁顺",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "5"
+            },
+            {
+                "ticketId": 228,
+                "ticketName": "达农",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "6"
+            },
+            {
+                "ticketId": 229,
+                "ticketName": "广义",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "6"
+            },
+            {
+                "ticketId": 230,
+                "ticketName": "昆嵩",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "7"
+            },
+            {
+                "ticketId": 207,
+                "ticketName": "极速中越彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 216,
+                "ticketName": "幸运中越彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNZBC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "YNNBC",
+        "ticketSeriesId": 16,
+        "ticketSeriesName": "南部越南彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 232,
+                "ticketName": "胡志明市",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "7,1"
+            },
+            {
+                "ticketId": 233,
+                "ticketName": "金瓯",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "1"
+            },
+            {
+                "ticketId": 234,
+                "ticketName": "同塔",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "1"
+            },
+            {
+                "ticketId": 235,
+                "ticketName": "薄辽",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "2"
+            },
+            {
+                "ticketId": 236,
+                "ticketName": "槟知",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "2"
+            },
+            {
+                "ticketId": 237,
+                "ticketName": "头顿",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "2"
+            },
+            {
+                "ticketId": 238,
+                "ticketName": "芹苴",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "3"
+            },
+            {
+                "ticketId": 239,
+                "ticketName": "同奈",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "3"
+            },
+            {
+                "ticketId": 240,
+                "ticketName": "朔庄",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "3"
+            },
+            {
+                "ticketId": 241,
+                "ticketName": "安江",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "4"
+            },
+            {
+                "ticketId": 242,
+                "ticketName": "平顺",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "4"
+            },
+            {
+                "ticketId": 243,
+                "ticketName": "西宁",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "4"
+            },
+            {
+                "ticketId": 244,
+                "ticketName": "平阳",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "5"
+            },
+            {
+                "ticketId": 245,
+                "ticketName": "茶荣",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "5"
+            },
+            {
+                "ticketId": 246,
+                "ticketName": "永隆",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "5"
+            },
+            {
+                "ticketId": 247,
+                "ticketName": "平福",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "6"
+            },
+            {
+                "ticketId": 248,
+                "ticketName": "后江",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "6"
+            },
+            {
+                "ticketId": 249,
+                "ticketName": "隆安",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "6"
+            },
+            {
+                "ticketId": 250,
+                "ticketName": "大叻",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "7"
+            },
+            {
+                "ticketId": 251,
+                "ticketName": "坚江",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "7"
+            },
+            {
+                "ticketId": 252,
+                "ticketName": "前江",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "7"
+            },
+            {
+                "ticketId": 208,
+                "ticketName": "极速南越彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 231,
+                "ticketName": "幸运南越彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "YNNBC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "TGC",
+        "ticketSeriesId": 18,
+        "ticketSeriesName": "泰国彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 270,
+                "ticketName": "泰国政府彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "TGC",
+                "isJKC": false,
+                "saleDay": "01,16"
+            },
+            {
+                "ticketId": 271,
+                "ticketName": "泰国1分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "TGC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 272,
+                "ticketName": "泰国5分彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "TGC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    },
+    {
+        "ticketSeriesCode": "DPC",
+        "ticketSeriesId": 88,
+        "ticketSeriesName": "低频彩",
+        "ticketTypeList": [
+            {
+                "ticketId": 27,
+                "ticketName": "香港六合彩",
+                "groupMode": 0,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "2,4,6"
+            },
+            {
+                "ticketId": 36,
+                "ticketName": "澳门六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 304,
+                "ticketName": "新澳门六合彩",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 6,
+                "ticketName": "福彩3D",
+                "groupMode": 0,
+                "path": null,
+                "code": "SD",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 40,
+                "ticketName": "排列3/5",
+                "groupMode": 0,
+                "path": null,
+                "code": "P3P5",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 26,
+                "ticketName": "福彩快乐8",
+                "groupMode": 0,
+                "path": null,
+                "code": "KLC",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 38,
+                "ticketName": "福彩双色球",
+                "groupMode": 0,
+                "path": null,
+                "code": "SSQ",
+                "isJKC": false,
+                "saleDay": "2,4,7"
+            },
+            {
+                "ticketId": 273,
+                "ticketName": "台湾大乐透",
+                "groupMode": 1,
+                "path": null,
+                "code": "LHC",
+                "isJKC": false,
+                "saleDay": "2,5"
+            },
+            {
+                "ticketId": 283,
+                "ticketName": "福彩幸运28",
+                "groupMode": 1,
+                "path": null,
+                "code": "XY28",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 302,
+                "ticketName": "今彩539",
+                "groupMode": 1,
+                "path": null,
+                "code": "539",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6"
+            }
+        ],
+        "seriesKind": 1
+    }
+]

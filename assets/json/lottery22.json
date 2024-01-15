@@ -1,0 +1,135 @@
+[
+    {
+        "ticketSeriesCode": "PK10",
+        "ticketSeriesId": 6,
+        "ticketSeriesName": "PK10",
+        "ticketTypeList": [
+            {
+                "ticketId": 293,
+                "ticketName": "DB PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 275,
+                "ticketName": "PM PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 201,
+                "ticketName": "OB Royal PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 190,
+                "ticketName": "6T 1分PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 191,
+                "ticketName": "6T 5分PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 153,
+                "ticketName": "乐冠PK10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 115,
+                "ticketName": "安博飞艇",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 116,
+                "ticketName": "安博幸运10",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 61,
+                "ticketName": "中欧飞艇",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 51,
+                "ticketName": "官方飞艇",
+                "groupMode": 1,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 81,
+                "ticketName": "竞速PK10",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": true
+            },
+            {
+                "ticketId": 67,
+                "ticketName": "极速赛车",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 48,
+                "ticketName": "极速飞艇",
+                "groupMode": 0,
+                "path": null,
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            },
+            {
+                "ticketId": 68,
+                "ticketName": "幸运飞艇",
+                "groupMode": 0,
+                "path": "http://172.18.3.119:8002/f3a68235-6f03-4849-8237-e459783c65d4west.png",
+                "code": "PK10",
+                "isJKC": false,
+                "saleDay": "1,2,3,4,5,6,7"
+            }
+        ],
+        "seriesKind": 1
+    }
+]

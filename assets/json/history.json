@@ -1,0 +1,602 @@
+[
+    {
+        "issue": "20231120-052",
+        "code": "5 1 0 9 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-051",
+        "code": "3 0 2 6 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-050",
+        "code": "2 2 9 9 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-049",
+        "code": "2 5 1 7 2",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-048",
+        "code": "0 1 0 3 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-047",
+        "code": "8 6 1 8 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-046",
+        "code": "3 6 4 3 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-045",
+        "code": "9 8 6 1 2",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-044",
+        "code": "3 9 3 0 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-043",
+        "code": "5 1 0 3 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-042",
+        "code": "9 3 9 9 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-041",
+        "code": "5 8 6 4 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-040",
+        "code": "3 5 8 8 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-039",
+        "code": "8 7 2 1 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-038",
+        "code": "4 2 7 4 2",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-037",
+        "code": "9 5 6 8 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-036",
+        "code": "0 3 3 0 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-035",
+        "code": "6 6 9 9 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-034",
+        "code": "3 5 6 6 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-033",
+        "code": "6 5 1 4 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-032",
+        "code": "6 8 5 6 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-031",
+        "code": "7 5 6 1 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-030",
+        "code": "3 2 8 7 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-029",
+        "code": "5 3 0 3 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-028",
+        "code": "3 4 9 0 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-027",
+        "code": "2 1 6 6 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-026",
+        "code": "6 7 4 9 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-025",
+        "code": "3 2 3 9 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-024",
+        "code": "8 5 3 4 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-023",
+        "code": "7 1 1 7 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-022",
+        "code": "5 7 7 3 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-021",
+        "code": "4 5 7 0 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-020",
+        "code": "2 8 8 6 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-019",
+        "code": "3 9 8 4 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-018",
+        "code": "7 2 9 6 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-017",
+        "code": "0 9 5 2 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-016",
+        "code": "3 3 7 4 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-015",
+        "code": "4 8 1 5 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-014",
+        "code": "7 6 1 8 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-013",
+        "code": "0 0 4 1 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-012",
+        "code": "6 6 2 4 2",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-011",
+        "code": "3 1 9 4 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-010",
+        "code": "8 8 7 9 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-009",
+        "code": "3 2 2 6 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-008",
+        "code": "6 7 2 7 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-007",
+        "code": "4 3 4 9 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-006",
+        "code": "2 3 3 4 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-005",
+        "code": "2 3 6 5 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-004",
+        "code": "1 0 6 8 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-003",
+        "code": "2 6 4 3 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-002",
+        "code": "9 2 5 0 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231120-001",
+        "code": "9 0 5 4 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-288",
+        "code": "4 5 8 3 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-287",
+        "code": "2 3 1 7 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-286",
+        "code": "4 3 6 3 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-285",
+        "code": "9 4 6 0 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-284",
+        "code": "6 6 3 2 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-283",
+        "code": "2 9 9 5 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-282",
+        "code": "8 0 7 0 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-281",
+        "code": "4 1 4 8 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-280",
+        "code": "9 1 9 9 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-279",
+        "code": "5 3 7 4 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-278",
+        "code": "5 5 2 2 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-277",
+        "code": "1 5 5 2 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-276",
+        "code": "8 3 4 8 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-275",
+        "code": "4 1 8 0 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-274",
+        "code": "0 1 7 1 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-273",
+        "code": "1 4 8 1 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-272",
+        "code": "5 1 4 0 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-271",
+        "code": "0 1 6 9 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-270",
+        "code": "2 2 7 2 2",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-269",
+        "code": "3 2 9 1 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-268",
+        "code": "7 8 3 1 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-267",
+        "code": "9 7 2 0 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-266",
+        "code": "3 2 6 2 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-265",
+        "code": "3 8 1 4 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-264",
+        "code": "4 9 2 7 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-263",
+        "code": "5 4 4 0 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-262",
+        "code": "5 8 4 0 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-261",
+        "code": "7 3 8 3 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-260",
+        "code": "7 8 9 3 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-259",
+        "code": "6 8 0 4 1",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-258",
+        "code": "1 4 5 6 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-257",
+        "code": "1 4 5 2 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-256",
+        "code": "0 6 5 5 6",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-255",
+        "code": "3 1 2 1 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-254",
+        "code": "5 0 3 6 5",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-253",
+        "code": "3 5 6 2 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-252",
+        "code": "6 1 2 2 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-251",
+        "code": "5 5 4 1 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-250",
+        "code": "5 7 5 9 2",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-249",
+        "code": "9 3 5 1 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-248",
+        "code": "0 9 2 6 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-247",
+        "code": "9 5 7 7 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-246",
+        "code": "3 1 2 8 8",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-245",
+        "code": "1 6 7 4 0",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-244",
+        "code": "0 4 7 9 9",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-243",
+        "code": "1 5 2 0 7",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-242",
+        "code": "3 2 1 7 4",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    },
+    {
+        "issue": "20231119-241",
+        "code": "8 1 2 5 3",
+        "codeStyle": null,
+        "saleStartTime": "2023-11-20"
+    }
+]

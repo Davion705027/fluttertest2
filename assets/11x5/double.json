@@ -1,0 +1,1863 @@
+[
+    {
+        "playId": 294,
+        "playName": "快捷",
+        "playCode": "kuaijie",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "kuaijie",
+                "playId": 294,
+                "playName": "快捷",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2940102,
+                        "playName": "第一球",
+                        "playCode": "diyiqiu",
+                        "list": [
+                            {
+                                "playId": 2294010201,
+                                "playName": "第一球大小",
+                                "playCode": "diyiqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401020101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "gname": "第一球大小",
+                                        "playMethodName": "第一球大小"
+                                    },
+                                    {
+                                        "playId": 29401020102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "gname": "第一球大小",
+                                        "playMethodName": "第一球大小"
+                                    },
+                                    {
+                                        "playId": 29401020201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "gname": "第一球单双",
+                                        "playMethodName": "第一球大小"
+                                    },
+                                    {
+                                        "playId": 29401020202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "gname": "第一球单双",
+                                        "playMethodName": "第一球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010203,
+                                "playName": "第一球定位胆",
+                                "playCode": "diyiqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401020301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940103,
+                        "playName": "第二球",
+                        "playCode": "dierqiu",
+                        "list": [
+                            {
+                                "playId": 2294010301,
+                                "playName": "第二球大小",
+                                "playCode": "dierqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401030101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "gname": "第二球大小",
+                                        "playMethodName": "第二球大小"
+                                    },
+                                    {
+                                        "playId": 29401030102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "gname": "第二球大小",
+                                        "playMethodName": "第二球大小"
+                                    },
+                                    {
+                                        "playId": 29401030201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "gname": "第二球单双",
+                                        "playMethodName": "第二球大小"
+                                    },
+                                    {
+                                        "playId": 29401030202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "gname": "第二球单双",
+                                        "playMethodName": "第二球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010303,
+                                "playName": "第二球定位胆",
+                                "playCode": "dierqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401030301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940104,
+                        "playName": "第三球",
+                        "playCode": "disanqiu",
+                        "list": [
+                            {
+                                "playId": 2294010401,
+                                "playName": "第三球大小",
+                                "playCode": "disanqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401040101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "gname": "第三球大小",
+                                        "playMethodName": "第三球大小"
+                                    },
+                                    {
+                                        "playId": 29401040102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "gname": "第三球大小",
+                                        "playMethodName": "第三球大小"
+                                    },
+                                    {
+                                        "playId": 29401040201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "gname": "第三球单双",
+                                        "playMethodName": "第三球大小"
+                                    },
+                                    {
+                                        "playId": 29401040202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "gname": "第三球单双",
+                                        "playMethodName": "第三球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010403,
+                                "playName": "第三球定位胆",
+                                "playCode": "disanqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401040301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940105,
+                        "playName": "第四球",
+                        "playCode": "disiqiu",
+                        "list": [
+                            {
+                                "playId": 2294010501,
+                                "playName": "第四球大小",
+                                "playCode": "disiqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401050101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "gname": "第四球大小",
+                                        "playMethodName": "第四球大小"
+                                    },
+                                    {
+                                        "playId": 29401050102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "gname": "第四球大小",
+                                        "playMethodName": "第四球大小"
+                                    },
+                                    {
+                                        "playId": 29401050201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "gname": "第四球单双",
+                                        "playMethodName": "第四球大小"
+                                    },
+                                    {
+                                        "playId": 29401050202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "gname": "第四球单双",
+                                        "playMethodName": "第四球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010503,
+                                "playName": "第四球定位胆",
+                                "playCode": "disiqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401050301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940106,
+                        "playName": "第五球",
+                        "playCode": "diwuqiu",
+                        "list": [
+                            {
+                                "playId": 2294010601,
+                                "playName": "第五球大小",
+                                "playCode": "diwuqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401060101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "gname": "第五球大小",
+                                        "playMethodName": "第五球大小"
+                                    },
+                                    {
+                                        "playId": 29401060102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "gname": "第五球大小",
+                                        "playMethodName": "第五球大小"
+                                    },
+                                    {
+                                        "playId": 29401060201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "gname": "第五球单双",
+                                        "playMethodName": "第五球大小"
+                                    },
+                                    {
+                                        "playId": 29401060202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "gname": "第五球单双",
+                                        "playMethodName": "第五球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010603,
+                                "playName": "第五球定位胆",
+                                "playCode": "diwuqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401060301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 29401,
+        "playName": "双面",
+        "playCode": "shuangmian",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "shuangmian",
+                "playId": 29401,
+                "playName": "双面",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2940101,
+                        "playName": "总和",
+                        "playCode": "zonghe",
+                        "list": [
+                            {
+                                "playId": 2294010101,
+                                "playName": "总和大小",
+                                "playCode": "zonghedaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401010101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.967",
+                                        "playMethodName": "总和大小"
+                                    },
+                                    {
+                                        "playId": 29401010102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.967",
+                                        "playMethodName": "总和大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010102,
+                                "playName": "总和单双",
+                                "playCode": "zonghedanshuang",
+                                "list": [
+                                    {
+                                        "playId": 29401010201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.89",
+                                        "playMethodName": "总和单双"
+                                    },
+                                    {
+                                        "playId": 29401010501,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.97",
+                                        "playMethodName": "总和单双"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010104,
+                                "playName": "总和龙虎",
+                                "playCode": "zonghelonghu",
+                                "list": [
+                                    {
+                                        "playId": 29401010401,
+                                        "playCode": "long",
+                                        "playName": "龙",
+                                        "odds": "1.96",
+                                        "playMethodName": "总和龙虎"
+                                    },
+                                    {
+                                        "playId": 29401010402,
+                                        "playCode": "hu",
+                                        "playName": "虎",
+                                        "odds": "1.96",
+                                        "playMethodName": "总和龙虎"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010103,
+                                "playName": "总和尾大小",
+                                "playCode": "zongheweidaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401010301,
+                                        "playCode": "weida",
+                                        "playName": "尾大",
+                                        "odds": "1.938",
+                                        "playMethodName": "总和尾大小"
+                                    },
+                                    {
+                                        "playId": 29401010601,
+                                        "playCode": "weixiao",
+                                        "playName": "尾小",
+                                        "odds": "1.938",
+                                        "playMethodName": "总和尾大小"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940102,
+                        "playName": "第一球",
+                        "playCode": "diyiqiu",
+                        "list": [
+                            {
+                                "playId": 2294010201,
+                                "playName": "第一球大小",
+                                "playCode": "diyiqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401020101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "playMethodName": "第一球大小"
+                                    },
+                                    {
+                                        "playId": 29401020102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "playMethodName": "第一球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010202,
+                                "playName": "第一球单双",
+                                "playCode": "diyiqiudanshuang",
+                                "list": [
+                                    {
+                                        "playId": 29401020201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "playMethodName": "第一球单双"
+                                    },
+                                    {
+                                        "playId": 29401020202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "playMethodName": "第一球单双"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940103,
+                        "playName": "第二球",
+                        "playCode": "dierqiu",
+                        "list": [
+                            {
+                                "playId": 2294010301,
+                                "playName": "第二球大小",
+                                "playCode": "dierqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401030101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "playMethodName": "第二球大小"
+                                    },
+                                    {
+                                        "playId": 29401030102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "playMethodName": "第二球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010302,
+                                "playName": "第二球单双",
+                                "playCode": "dierqiudanshuang",
+                                "list": [
+                                    {
+                                        "playId": 29401030201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "playMethodName": "第二球单双"
+                                    },
+                                    {
+                                        "playId": 29401030202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "playMethodName": "第二球单双"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940104,
+                        "playName": "第三球",
+                        "playCode": "disanqiu",
+                        "list": [
+                            {
+                                "playId": 2294010401,
+                                "playName": "第三球大小",
+                                "playCode": "disanqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401040101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "playMethodName": "第三球大小"
+                                    },
+                                    {
+                                        "playId": 29401040102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "playMethodName": "第三球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010402,
+                                "playName": "第三球单双",
+                                "playCode": "disanqiudanshuang",
+                                "list": [
+                                    {
+                                        "playId": 29401040201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "playMethodName": "第三球单双"
+                                    },
+                                    {
+                                        "playId": 29401040202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "playMethodName": "第三球单双"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940105,
+                        "playName": "第四球",
+                        "playCode": "disiqiu",
+                        "list": [
+                            {
+                                "playId": 2294010501,
+                                "playName": "第四球大小",
+                                "playCode": "disiqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401050101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "playMethodName": "第四球大小"
+                                    },
+                                    {
+                                        "playId": 29401050102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "playMethodName": "第四球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010502,
+                                "playName": "第四球单双",
+                                "playCode": "disiqiudanshuang",
+                                "list": [
+                                    {
+                                        "playId": 29401050201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "playMethodName": "第四球单双"
+                                    },
+                                    {
+                                        "playId": 29401050202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "playMethodName": "第四球单双"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940106,
+                        "playName": "第五球",
+                        "playCode": "diwuqiu",
+                        "list": [
+                            {
+                                "playId": 2294010601,
+                                "playName": "第五球大小",
+                                "playCode": "diwuqiudaxiao",
+                                "list": [
+                                    {
+                                        "playId": 29401060101,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.96",
+                                        "playMethodName": "第五球大小"
+                                    },
+                                    {
+                                        "playId": 29401060102,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.96",
+                                        "playMethodName": "第五球大小"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2294010602,
+                                "playName": "第五球单双",
+                                "playCode": "diwuqiudanshuang",
+                                "list": [
+                                    {
+                                        "playId": 29401060201,
+                                        "playCode": "dan",
+                                        "playName": "单",
+                                        "odds": "1.96",
+                                        "playMethodName": "第五球单双"
+                                    },
+                                    {
+                                        "playId": 29401060202,
+                                        "playCode": "shuang",
+                                        "playName": "双",
+                                        "odds": "1.96",
+                                        "playMethodName": "第五球单双"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 29402,
+        "playName": "选号",
+        "playCode": "xuanhao",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "xuanhao",
+                "playId": 29402,
+                "playName": "选号",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2940102,
+                        "playName": "第一球",
+                        "playCode": "diyiqiu",
+                        "list": [
+                            {
+                                "playId": 2294010203,
+                                "playName": "第一球定位胆",
+                                "playCode": "diyiqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401020301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401020311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第一球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940103,
+                        "playName": "第二球",
+                        "playCode": "dierqiu",
+                        "list": [
+                            {
+                                "playId": 2294010303,
+                                "playName": "第二球定位胆",
+                                "playCode": "dierqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401030301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401030311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第二球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940104,
+                        "playName": "第三球",
+                        "playCode": "disanqiu",
+                        "list": [
+                            {
+                                "playId": 2294010403,
+                                "playName": "第三球定位胆",
+                                "playCode": "disanqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401040301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401040311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第三球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940105,
+                        "playName": "第四球",
+                        "playCode": "disiqiu",
+                        "list": [
+                            {
+                                "playId": 2294010503,
+                                "playName": "第四球定位胆",
+                                "playCode": "disiqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401050301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401050311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第四球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2940106,
+                        "playName": "第五球",
+                        "playCode": "diwuqiu",
+                        "list": [
+                            {
+                                "playId": 2294010603,
+                                "playName": "第五球定位胆",
+                                "playCode": "diwuqiudingweidan",
+                                "list": [
+                                    {
+                                        "playId": 29401060301,
+                                        "playCode": "1",
+                                        "playName": "01",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060302,
+                                        "playCode": "2",
+                                        "playName": "02",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060303,
+                                        "playCode": "3",
+                                        "playName": "03",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060304,
+                                        "playCode": "4",
+                                        "playName": "04",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060305,
+                                        "playCode": "5",
+                                        "playName": "05",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060306,
+                                        "playCode": "6",
+                                        "playName": "06",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060307,
+                                        "playCode": "7",
+                                        "playName": "07",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060308,
+                                        "playCode": "8",
+                                        "playName": "08",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060309,
+                                        "playCode": "9",
+                                        "playName": "09",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060310,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    },
+                                    {
+                                        "playId": 29401060311,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.818",
+                                        "playMethodName": "第五球定位胆"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 29403,
+        "playName": "任选",
+        "playCode": "renxuan",
+        "showSubCatalog": true,
+        "subCatalog": [
+            {
+                "playCode": "renxuanyi",
+                "playId": 2940201,
+                "playName": "任选一",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940201,
+                        "playName": "任选一",
+                        "playCode": "renxuanyi",
+                        "list": [
+                            {
+                                "playId": 2294020101,
+                                "playName": "任选一",
+                                "playCode": "renxuanyi",
+                                "list": [
+                                    {
+                                        "playId": 29402010101,
+                                        "playCode": "renxuanyi",
+                                        "playName": "任选一",
+                                        "odds": "1.88",
+                                        "playMethodName": "任选一"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuaner",
+                "playId": 2940202,
+                "playName": "任选二",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940202,
+                        "playName": "任选二",
+                        "playCode": "renxuaner",
+                        "list": [
+                            {
+                                "playId": 2294020201,
+                                "playName": "任选二",
+                                "playCode": "renxuaner",
+                                "list": [
+                                    {
+                                        "playId": 29402020101,
+                                        "playCode": "renxuaner",
+                                        "playName": "任选二",
+                                        "odds": "5",
+                                        "playMethodName": "任选二"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuansan",
+                "playId": 2940203,
+                "playName": "任选三",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940203,
+                        "playName": "任选三",
+                        "playCode": "renxuansan",
+                        "list": [
+                            {
+                                "playId": 2294020301,
+                                "playName": "任选三",
+                                "playCode": "renxuansan",
+                                "list": [
+                                    {
+                                        "playId": 29402030101,
+                                        "playCode": "renxuansan",
+                                        "playName": "任选三",
+                                        "odds": "14",
+                                        "playMethodName": "任选三"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuansi",
+                "playId": 2940204,
+                "playName": "任选四",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940204,
+                        "playName": "任选四",
+                        "playCode": "renxuansi",
+                        "list": [
+                            {
+                                "playId": 2294020401,
+                                "playName": "任选四",
+                                "playCode": "renxuansi",
+                                "list": [
+                                    {
+                                        "playId": 29402040101,
+                                        "playCode": "renxuansi",
+                                        "playName": "任选四",
+                                        "odds": "50",
+                                        "playMethodName": "任选四"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuanwu",
+                "playId": 2940205,
+                "playName": "任选五",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940205,
+                        "playName": "任选五",
+                        "playCode": "renxuanwu",
+                        "list": [
+                            {
+                                "playId": 2294020501,
+                                "playName": "任选五",
+                                "playCode": "renxuanwu",
+                                "list": [
+                                    {
+                                        "playId": 29402050101,
+                                        "playCode": "renxuanwu",
+                                        "playName": "任选五",
+                                        "odds": "410",
+                                        "playMethodName": "任选五"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuanliuzhongwu",
+                "playId": 2940206,
+                "playName": "任选六中五",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940206,
+                        "playName": "任选六中五",
+                        "playCode": "renxuanliuzhongwu",
+                        "list": [
+                            {
+                                "playId": 2294020601,
+                                "playName": "任选六中五",
+                                "playCode": "renxuanliuzhongwu",
+                                "list": [
+                                    {
+                                        "playId": 29402060101,
+                                        "playCode": "renxuanliuzhongwu",
+                                        "playName": "任选六中五",
+                                        "odds": "60",
+                                        "playMethodName": "任选六中五"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuanqizhongwu",
+                "playId": 2940207,
+                "playName": "任选七中五",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940207,
+                        "playName": "任选七中五",
+                        "playCode": "renxuanqizhongwu",
+                        "list": [
+                            {
+                                "playId": 2294020701,
+                                "playName": "任选七中五",
+                                "playCode": "renxuanqizhongwu",
+                                "list": [
+                                    {
+                                        "playId": 29402070101,
+                                        "playCode": "renxuanqizhongwu",
+                                        "playName": "任选七中五",
+                                        "odds": "15",
+                                        "playMethodName": "任选七中五"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "renxuanbazhongwu",
+                "playId": 2940208,
+                "playName": "任选八中五",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940208,
+                        "playName": "任选八中五",
+                        "playCode": "renxuanbazhongwu",
+                        "list": [
+                            {
+                                "playId": 2294020801,
+                                "playName": "任选八中五",
+                                "playCode": "renxuanbazhongwu",
+                                "list": [
+                                    {
+                                        "playId": 29402080101,
+                                        "playCode": "renxuanbazhongwu",
+                                        "playName": "任选八中五",
+                                        "odds": "6.5",
+                                        "playMethodName": "任选八中五"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 29404,
+        "playName": "组选",
+        "playCode": "zuxuan",
+        "showSubCatalog": true,
+        "subCatalog": [
+            {
+                "playCode": "qianerzuxuan",
+                "playId": 2940209,
+                "playName": "前二组选",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940209,
+                        "playName": "前二组选",
+                        "playCode": "qianerzuxuan",
+                        "list": [
+                            {
+                                "playId": 2294020901,
+                                "playName": "前二组选",
+                                "playCode": "qianerzuxuan",
+                                "list": [
+                                    {
+                                        "playId": 29402090101,
+                                        "playCode": "qianerzuxuan",
+                                        "playName": "前二组选",
+                                        "odds": "40",
+                                        "playMethodName": "前二组选"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "qiansanzuxuan",
+                "playId": 2940210,
+                "playName": "前三组选",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940210,
+                        "playName": "前三组选",
+                        "playCode": "qiansanzuxuan",
+                        "list": [
+                            {
+                                "playId": 2294021001,
+                                "playName": "前三组选",
+                                "playCode": "qiansanzuxuan",
+                                "list": [
+                                    {
+                                        "playId": 29402100101,
+                                        "playCode": "qiansanzuxuan",
+                                        "playName": "前三组选",
+                                        "odds": "140",
+                                        "playMethodName": "前三组选"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 29405,
+        "playName": "直选",
+        "playCode": "zhixuan",
+        "showSubCatalog": true,
+        "subCatalog": [
+            {
+                "playCode": "qianerzhixuan",
+                "playId": 2940301,
+                "playName": "前二直选",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940301,
+                        "playName": "前二直选",
+                        "playCode": "qianerzhixuan",
+                        "list": [
+                            {
+                                "playId": 2294030101,
+                                "playName": "前二直选",
+                                "playCode": "qianerzhixuan",
+                                "list": [
+                                    {
+                                        "playId": 29403010101,
+                                        "playCode": "qianerzhixuan",
+                                        "playName": "前二直选",
+                                        "odds": "90",
+                                        "playMethodName": "前二直选"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "playCode": "qiansanzhixuan",
+                "playId": 2940302,
+                "playName": "前三直选",
+                "fushiTemplate": true,
+                "list": [
+                    {
+                        "playId": 2940302,
+                        "playName": "前三直选",
+                        "playCode": "qiansanzhixuan",
+                        "list": [
+                            {
+                                "playId": 2294030201,
+                                "playName": "前三直选",
+                                "playCode": "qiansanzhixuan",
+                                "list": [
+                                    {
+                                        "playId": 29403020101,
+                                        "playCode": "qiansanzhixuan",
+                                        "playName": "前三直选",
+                                        "odds": "890",
+                                        "playMethodName": "前三直选"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

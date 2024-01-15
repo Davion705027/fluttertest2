@@ -1,0 +1,691 @@
+[
+    {
+        "playId": 2950101,
+        "playName": "三军 大小",
+        "playCode": "sanjundaxiao",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "sanjundaxiao",
+                "playId": 2950101,
+                "playName": "三军 大小",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2950101,
+                        "playName": "三军 大小",
+                        "playCode": "sanjundaxiao",
+                        "list": [
+                            {
+                                "playId": 2295010101,
+                                "playName": "三军",
+                                "playCode": "sanjun",
+                                "list": [
+                                    {
+                                        "playId": 29501010101,
+                                        "playCode": "1",
+                                        "playName": "1",
+                                        "odds": "1.975",
+                                        "playMethodName": "三军"
+                                    },
+                                    {
+                                        "playId": 29501010102,
+                                        "playCode": "2",
+                                        "playName": "2",
+                                        "odds": "1.975",
+                                        "playMethodName": "三军"
+                                    },
+                                    {
+                                        "playId": 29501010103,
+                                        "playCode": "3",
+                                        "playName": "3",
+                                        "odds": "1.975",
+                                        "playMethodName": "三军"
+                                    },
+                                    {
+                                        "playId": 29501010104,
+                                        "playCode": "4",
+                                        "playName": "4",
+                                        "odds": "1.975",
+                                        "playMethodName": "三军"
+                                    },
+                                    {
+                                        "playId": 29501010105,
+                                        "playCode": "5",
+                                        "playName": "5",
+                                        "odds": "1.975",
+                                        "playMethodName": "三军"
+                                    },
+                                    {
+                                        "playId": 29501010106,
+                                        "playCode": "6",
+                                        "playName": "6",
+                                        "odds": "1.975",
+                                        "playMethodName": "三军"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010102,
+                                "playName": "总和大小",
+                                "playCode": "daxiao",
+                                "list": [
+                                    {
+                                        "playId": 29501010107,
+                                        "playCode": "da",
+                                        "playName": "大",
+                                        "odds": "1.95",
+                                        "playMethodName": "总和大小"
+                                    },
+                                    {
+                                        "playId": 29501010108,
+                                        "playCode": "xiao",
+                                        "playName": "小",
+                                        "odds": "1.95",
+                                        "playMethodName": "总和大小"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 2950102,
+        "playName": "围骰 全骰",
+        "playCode": "weitouquantou",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "weitouquantou",
+                "playId": 2950102,
+                "playName": "围骰 全骰",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2950102,
+                        "playName": "围骰 全骰",
+                        "playCode": "weitouquantou",
+                        "list": [
+                            {
+                                "playId": 2295010201,
+                                "playName": "围骰",
+                                "playCode": "weitou",
+                                "list": [
+                                    {
+                                        "playId": 29501020101,
+                                        "playCode": "111",
+                                        "playName": "111",
+                                        "odds": "168",
+                                        "playMethodName": "围骰"
+                                    },
+                                    {
+                                        "playId": 29501020102,
+                                        "playCode": "222",
+                                        "playName": "222",
+                                        "odds": "168",
+                                        "playMethodName": "围骰"
+                                    },
+                                    {
+                                        "playId": 29501020103,
+                                        "playCode": "333",
+                                        "playName": "333",
+                                        "odds": "168",
+                                        "playMethodName": "围骰"
+                                    },
+                                    {
+                                        "playId": 29501020104,
+                                        "playCode": "444",
+                                        "playName": "444",
+                                        "odds": "168",
+                                        "playMethodName": "围骰"
+                                    },
+                                    {
+                                        "playId": 29501020105,
+                                        "playCode": "555",
+                                        "playName": "555",
+                                        "odds": "168",
+                                        "playMethodName": "围骰"
+                                    },
+                                    {
+                                        "playId": 29501020106,
+                                        "playCode": "666",
+                                        "playName": "666",
+                                        "odds": "168",
+                                        "playMethodName": "围骰"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010202,
+                                "playName": "全骰",
+                                "playCode": "quantou",
+                                "list": [
+                                    {
+                                        "playId": 29501020107,
+                                        "playCode": "quantou",
+                                        "playName": "全骰",
+                                        "odds": "26",
+                                        "playMethodName": "全骰"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 2950103,
+        "playName": "点数",
+        "playCode": "dianshu",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "dianshu",
+                "playId": 2950103,
+                "playName": "点数",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2950103,
+                        "playName": "点数",
+                        "playCode": "dianshu",
+                        "list": [
+                            {
+                                "playId": 2295010301,
+                                "playName": "点数",
+                                "playCode": "dianshusan",
+                                "list": [
+                                    {
+                                        "playId": 29501030101,
+                                        "playCode": "3",
+                                        "playName": "3",
+                                        "odds": "168",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010302,
+                                "playName": "点数",
+                                "playCode": "dianshusi",
+                                "list": [
+                                    {
+                                        "playId": 29501030201,
+                                        "playCode": "4",
+                                        "playName": "4",
+                                        "odds": "58",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010303,
+                                "playName": "点数",
+                                "playCode": "dianshuwu",
+                                "list": [
+                                    {
+                                        "playId": 29501030301,
+                                        "playCode": "5",
+                                        "playName": "5",
+                                        "odds": "21",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010304,
+                                "playName": "点数",
+                                "playCode": "dianshuliu",
+                                "list": [
+                                    {
+                                        "playId": 29501030401,
+                                        "playCode": "6",
+                                        "playName": "6",
+                                        "odds": "18",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010305,
+                                "playName": "点数",
+                                "playCode": "dianshuqi",
+                                "list": [
+                                    {
+                                        "playId": 29501030501,
+                                        "playCode": "7",
+                                        "playName": "7",
+                                        "odds": "12.5",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010306,
+                                "playName": "点数",
+                                "playCode": "dianshuba",
+                                "list": [
+                                    {
+                                        "playId": 29501030601,
+                                        "playCode": "8",
+                                        "playName": "8",
+                                        "odds": "9",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010307,
+                                "playName": "点数",
+                                "playCode": "dianshujiu",
+                                "list": [
+                                    {
+                                        "playId": 29501030701,
+                                        "playCode": "9",
+                                        "playName": "9",
+                                        "odds": "7",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010308,
+                                "playName": "点数",
+                                "playCode": "dianshushi",
+                                "list": [
+                                    {
+                                        "playId": 29501030801,
+                                        "playCode": "10",
+                                        "playName": "10",
+                                        "odds": "6.5",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010309,
+                                "playName": "点数",
+                                "playCode": "dianshushiyi",
+                                "list": [
+                                    {
+                                        "playId": 29501030901,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "6.5",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010310,
+                                "playName": "点数",
+                                "playCode": "dianshushier",
+                                "list": [
+                                    {
+                                        "playId": 29501031001,
+                                        "playCode": "12",
+                                        "playName": "12",
+                                        "odds": "7",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010311,
+                                "playName": "点数",
+                                "playCode": "dianshushisan",
+                                "list": [
+                                    {
+                                        "playId": 29501031101,
+                                        "playCode": "13",
+                                        "playName": "13",
+                                        "odds": "9",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010312,
+                                "playName": "点数",
+                                "playCode": "dianshushisi",
+                                "list": [
+                                    {
+                                        "playId": 29501031201,
+                                        "playCode": "14",
+                                        "playName": "14",
+                                        "odds": "12.5",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010313,
+                                "playName": "点数",
+                                "playCode": "dianshushiwu",
+                                "list": [
+                                    {
+                                        "playId": 29501031301,
+                                        "playCode": "15",
+                                        "playName": "15",
+                                        "odds": "18",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010314,
+                                "playName": "点数",
+                                "playCode": "dianshushiliu",
+                                "list": [
+                                    {
+                                        "playId": 29501031401,
+                                        "playCode": "16",
+                                        "playName": "16",
+                                        "odds": "21",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010315,
+                                "playName": "点数",
+                                "playCode": "dianshushiqi",
+                                "list": [
+                                    {
+                                        "playId": 29501031501,
+                                        "playCode": "17",
+                                        "playName": "17",
+                                        "odds": "58",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            },
+                            {
+                                "playId": 2295010316,
+                                "playName": "点数",
+                                "playCode": "dianshushiba",
+                                "list": [
+                                    {
+                                        "playId": 29501031601,
+                                        "playCode": "18",
+                                        "playName": "18",
+                                        "odds": "168",
+                                        "playMethodName": "点数"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 2950104,
+        "playName": "长短牌",
+        "playCode": "changduanpai",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "changduanpai",
+                "playId": 2950104,
+                "playName": "长短牌",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2950104,
+                        "playName": "长牌",
+                        "playCode": "changpai",
+                        "list": [
+                            {
+                                "playId": 2295010401,
+                                "playName": "长牌",
+                                "playCode": "changpai",
+                                "list": [
+                                    {
+                                        "playId": 29501040101,
+                                        "playCode": "12",
+                                        "playName": "12",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040102,
+                                        "playCode": "13",
+                                        "playName": "13",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040103,
+                                        "playCode": "14",
+                                        "playName": "14",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040104,
+                                        "playCode": "15",
+                                        "playName": "15",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040105,
+                                        "playCode": "16",
+                                        "playName": "16",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040106,
+                                        "playCode": "23",
+                                        "playName": "23",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040107,
+                                        "playCode": "24",
+                                        "playName": "24",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040108,
+                                        "playCode": "25",
+                                        "playName": "25",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040109,
+                                        "playCode": "26",
+                                        "playName": "26",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040110,
+                                        "playCode": "34",
+                                        "playName": "34",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040111,
+                                        "playCode": "35",
+                                        "playName": "35",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040112,
+                                        "playCode": "36",
+                                        "playName": "36",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040113,
+                                        "playCode": "45",
+                                        "playName": "45",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040114,
+                                        "playCode": "46",
+                                        "playName": "46",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    },
+                                    {
+                                        "playId": 29501040115,
+                                        "playCode": "56",
+                                        "playName": "56",
+                                        "odds": "5.8",
+                                        "playMethodName": "长牌"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "playId": 2950105,
+                        "playName": "短牌",
+                        "playCode": "duanpai",
+                        "list": [
+                            {
+                                "playId": 2295010501,
+                                "playName": "短牌",
+                                "playCode": "duanpai",
+                                "list": [
+                                    {
+                                        "playId": 29501050101,
+                                        "playCode": "11",
+                                        "playName": "11",
+                                        "odds": "10.88",
+                                        "playMethodName": "短牌"
+                                    },
+                                    {
+                                        "playId": 29501050102,
+                                        "playCode": "22",
+                                        "playName": "22",
+                                        "odds": "10.88",
+                                        "playMethodName": "短牌"
+                                    },
+                                    {
+                                        "playId": 29501050103,
+                                        "playCode": "33",
+                                        "playName": "33",
+                                        "odds": "10.88",
+                                        "playMethodName": "短牌"
+                                    },
+                                    {
+                                        "playId": 29501050104,
+                                        "playCode": "44",
+                                        "playName": "44",
+                                        "odds": "10.88",
+                                        "playMethodName": "短牌"
+                                    },
+                                    {
+                                        "playId": 29501050105,
+                                        "playCode": "55",
+                                        "playName": "55",
+                                        "odds": "10.88",
+                                        "playMethodName": "短牌"
+                                    },
+                                    {
+                                        "playId": 29501050106,
+                                        "playCode": "66",
+                                        "playName": "66",
+                                        "odds": "10.88",
+                                        "playMethodName": "短牌"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "playId": 29502,
+        "playName": "鱼虾蟹",
+        "playCode": "yuxiaxietoubao",
+        "showSubCatalog": false,
+        "subCatalog": [
+            {
+                "playCode": "yuxiaxietoubao",
+                "playId": 29502,
+                "playName": "鱼虾蟹",
+                "fushiTemplate": false,
+                "list": [
+                    {
+                        "playId": 2950201,
+                        "playName": "鱼虾蟹",
+                        "playCode": "yuxiaxietoubao",
+                        "list": [
+                            {
+                                "playName": "鱼虾蟹",
+                                "playCode": "yuxiaxietoubao",
+                                "list": [
+                                    {
+                                        "playId": 29502010101,
+                                        "playCode": "yu",
+                                        "playName": "鱼",
+                                        "odds": "1.975",
+                                        "playMethodName": "鱼虾蟹"
+                                    },
+                                    {
+                                        "playId": 29502010102,
+                                        "playCode": "xia",
+                                        "playName": "虾",
+                                        "odds": "1.975",
+                                        "playMethodName": "鱼虾蟹"
+                                    },
+                                    {
+                                        "playId": 29502010103,
+                                        "playCode": "hulu",
+                                        "playName": "葫芦",
+                                        "odds": "1.975",
+                                        "playMethodName": "鱼虾蟹"
+                                    },
+                                    {
+                                        "playId": 29502010104,
+                                        "playCode": "jinxian",
+                                        "playName": "金钱",
+                                        "odds": "1.975",
+                                        "playMethodName": "鱼虾蟹"
+                                    },
+                                    {
+                                        "playId": 29502010105,
+                                        "playCode": "xie",
+                                        "playName": "蟹",
+                                        "odds": "1.975",
+                                        "playMethodName": "鱼虾蟹"
+                                    },
+                                    {
+                                        "playId": 29502010106,
+                                        "playCode": "ji",
+                                        "playName": "鸡",
+                                        "odds": "1.975",
+                                        "playMethodName": "鱼虾蟹"
+                                    }
+                                ],
+                                "template": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
