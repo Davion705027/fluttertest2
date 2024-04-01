@@ -78,7 +78,7 @@ class First extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-
+            const KeyPage(),  
 
             GetBuilder<Controller>(
                 init: Controller(),
@@ -321,3 +321,77 @@ class SizeTransitions extends CustomTransition {
 }
 
 
+class KeyPage extends StatefulWidget {
+  const KeyPage({ Key? key }) : super(key: key);
+
+  @override
+  _KeyPageState createState() => _KeyPageState();
+}
+
+class _KeyPageState extends State<KeyPage> {
+  List<Widget> items = [
+    Box(color: Colors.red,key: const ValueKey(1)),
+    Box(color: Colors.yellow,key: const ValueKey(2)),
+    Box(color: Colors.blue,key: const ValueKey(3)),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [
+        InkWell(
+          onTap: (){
+            setState(() {
+              items.removeAt(0);
+              // items.add(Box(color: Colors.green,));
+            });
+          },
+          child: const Text('删除')
+        ),
+        Column(
+          children: items,
+        ),
+          InkWell(
+          onTap: (){
+            setState(() {
+              items.add(Box(color: Colors.green,));
+              // items.add(Box(color: Colors.green,));
+            });
+          },
+          child: const Text('增加')
+        ),
+        ],
+    );
+  }
+}
+
+class Box extends StatefulWidget {
+  final Color color;
+  Box({super.key,required this.color});
+  // const Box({ Key? key }) : super(key: key);
+
+  @override
+  _BoxState createState() => _BoxState();
+}
+
+class _BoxState extends State<Box> {
+  int cout = 0;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: 20,
+      height: 20,
+      color: widget.color,
+      child: InkWell(
+        onTap: (){
+          setState(() {
+            ++cout;
+          });
+        },
+        child: Text("$cout")),
+    );
+  }
+}
