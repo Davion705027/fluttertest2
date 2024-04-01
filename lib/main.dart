@@ -1,211 +1,320 @@
-import 'dart:io';
-
+import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:personal/common/routers/index.dart';
-import 'dart:convert';
-
-import 'package:personal/common/routers/pages.dart';
-import 'package:personal/test/calendar.dart';
-import 'package:personal/test/coldmiss.dart';
-import 'package:personal/test/func.dart';
-import 'package:personal/test/mqtt-dj.dart';
-import 'package:personal/test/mqtt.dart';
+import 'package:personal/config/theme/app_theme.dart';
 
 void main() {
-  // var res = calendar['solar2lunar'](2023,11,24);
-  // print(res);
-  // var d = DateTime.now();
-  // print(d);
-  // var codeArr = [1,2,3,4,5];
-  // var num;
-
-  // var entry = codeArr.asMap().entries.firstWhere((entry) {
-  //   var i = entry.key;
-  //   var v = entry.value;
-  //   return codeArr.lastIndexOf(v) != i;
-  // }, orElse: () => null);
-
-  // var num = entry?.value;
-  // print(num);
-  // var res1 = codeArr.asMap().keys.firstWhere((v){
-  //   print(v);
-  //   return true;
-  // });
-  // var res = codeArr.asMap().entries.firstWhere((v){
-  //   print(v);
-  //   return v.value == 3;
-  // });
-  // print(res.value);
-
-  // var arr = [
-  //   [for (var i = 0; i < 6; i++) codeArr.contains(i + 1)],
-  // ];
-  // var arr = [4,1,2,3];
-  // var list = arr.where((v)=>v>2).toList();
-  // print(arr);
-
-  // Map myMap = {
-  //   'one': 1,
-  //   'two': 2,
-  //   'three': {
-  //     'd': 5,
-  //     'd1': {
-  //       'e':3,
-  //     }
-  //   },
-  // };
-
-  // List flatternObj(Map map) {
-  //   List values = [];
-
-  //   map.forEach((key, value) {
-  //     if (value is Map) {
-  //       // 递归处理嵌套的 Map
-  //       values.addAll(flatternObj(value));
-  //     }else{
-  //       values.add(value);
-  //     }
-  //   });
-
-  //   return values;
-  // }
-
-  // var res = flattenObj(myMap.entries.toList());
-  // print(myMap);  // Output: [1, 2, 3]
-
-  // List<dynamic> flattenObj(dynamic n) {
-  //   if (n is Map || n is List) {
-  //     return n.expand<dynamic>((element) => flattenObj(element)).toList();
-  //   } else {
-  //     return [n];
-  //   }
-  // }
-
-  // List nestedList = [[1, 2,[7,8]], [3, 4], [5, 6]];
-  // List flattenedList = flattenObj(nestedList);
-  // print(flattenedList); // Output: [1, 2, 3, 4, 5, 6]
-
-  // // 创建一个带有扩展功能的函数
-  // originalFunction(int a, int b) => a + b;
-  // var extendedFunction = ExtendedFunction(originalFunction);
-
-  // // 设置自定义属性
-  // extendedFunction['after'] = (List arr) {
-  //   return arr.map((v) => v * 2).toList();
-  // };
-
-  // // 获取自定义属性
-  // var afterFunction = extendedFunction['after'];
-  // if (afterFunction != null && afterFunction is Function) {
-  //   var result = afterFunction([1, 2, 3]);
-  //   print(result); // 输出 [2, 4, 6]
-  // }
-
-  // // 调用原始函数
-  // var result = extendedFunction(3, 4);
-  // print(result); // 输出 7
-
-  // AppMqttDJ.instance().connect();
-  // AppMqtt.instance().connect();
-
-  // final history_json = jsonDecode(history);
-  // print(history_json);
-
-  // coldmissCalculator('standard',292,);
-  runApp(const MyApp());
+  bool isDark = true;
+  runApp(GetMaterialApp(
+    // It is not mandatory to use named routes, but dynamic urls are interesting.
+    initialRoute: '/home',
+    defaultTransition: Transition.native,
+    translations: MyTranslations(),
+    locale: Locale('en', 'ZH'),
+    // theme: AppTheme.light,
+    // darkTheme: AppTheme.dark,
+    // themeMode: isDark ? ThemeMode.dark : ThemeMode.light,
+    getPages: [
+      //Simple GetPage
+      GetPage(name: '/home', page: () => First()),
+      // GetPage with custom transitions and bindings
+      GetPage(
+        name: '/second',
+        page: () => Second(),
+        customTransition: SizeTransitions(),
+        binding: SampleBind(),
+      ),
+      // GetPage with default transitions
+      GetPage(
+        name: '/third',
+        transition: Transition.cupertino,
+        page: () => Third(),
+      ),
+    ],
+  ));
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  // This widget is the root of your application.
+class MyTranslations extends Translations {
   @override
-  Widget build(BuildContext context) {
-    return GetMaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.yellow),
-        useMaterial3: true,
-      ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      getPages: RoutePages.routes,
-    );
+  Map<String, Map<String, String>> get keys => {
+        'en_ZH': {
+          'title': '你好 世界',
+        },
+        'en_US': {
+          'title': 'Hello World',
+        },
+        'pt': {
+          'title': 'Olá de Portugal',
+        },
+        'pt_BR': {
+          'title': 'Olá do Brasil',
+        },
+      };
+}
+
+class Controller extends GetxController {
+  int count = 0;
+  void increment() {
+    count++;
+    // use update method to update all count variables
+    update();
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  final String title;
-
-  @override
-  State<MyHomePage> createState() => _MyHomePageState();
-}
-
-class RouteModel {
-  final String name;
-  final String path;
-
-  RouteModel({required this.name, required this.path});
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-  List<RouteModel> routes = [
-    RouteModel(name: '计数器', path: RouteNames.counterPage),
-    RouteModel(name: '跨页面交互', path: RouteNames.jumeOnePage),
-    RouteModel(name: 'test', path: RouteNames.testPage),
-    RouteModel(name: 'listview', path: RouteNames.listView),
-    RouteModel(name: 'layout', path: RouteNames.layoutPage),
-  ];
-  late List<Widget> wlist = routes
-      .map((item) => ElevatedButton(
-          onPressed: () {
-            Get.toNamed(item.path);
-          },
-          child: Text(item.name)))
-      .toList();
+class First extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(widget.title),
+        leading: IconButton(
+          icon: Icon(Icons.add),
+          onPressed: () {
+            Get.snackbar("Hi", "I'm modern snackbar");
+          },
+        ),
+        title: Text("title".trArgs(['John'])),
       ),
-      body: Container(
-        color: Colors.green[50],
-        child: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: Column(
-              mainAxisAlignment: MainAxisAlignment.start, // 主轴
-              crossAxisAlignment: CrossAxisAlignment.start, // 交叉轴
-              children: [
-                Menus(wlist: wlist),
-                
-              ]),
-        ), // This trailing comma makes auto-formatting nicer for build methods.
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+
+
+            GetBuilder<Controller>(
+                init: Controller(),
+                // You can initialize your controller here the first time. Don't use init in your other GetBuilders of same controller
+                builder: (_) => Text(
+                      'clicks: ${_.count}',
+                    )),
+            ElevatedButton(
+              child: Text('Next Route'),
+              onPressed: () {
+                Get.toNamed('/second');
+              },
+            ),
+            ElevatedButton(
+              child: Text('Change locale to English'),
+              onPressed: () {
+                Get.updateLocale(Locale('en', 'US'));
+              },
+            ),
+            ElevatedButton(
+              child: Text('Change locale to 中文'),
+              onPressed: () {
+                Get.updateLocale(Locale('en', 'ZH'));
+              },
+            ),
+            ElevatedButton(
+              child: Text('Change theme'),
+              style: ElevatedButton.styleFrom(
+                textStyle: const TextStyle(fontSize: 20),
+                foregroundColor: Get.isDarkMode ? Colors.red :  Colors.blue
+              ),
+              onPressed: () {
+                Get.changeTheme(Get.isDarkMode? ThemeData.light(): ThemeData.dark());
+                // Get.changeThemeMode(ThemeMode.dark);
+              },
+            ),
+  
+          ],
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+          child: Icon(Icons.add),
+          onPressed: () {
+            Get.find<Controller>().increment();
+          }),
+    );
+  }
+}
+
+class Second extends GetView<ControllerX> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('second Route'),
+      ),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Obx(
+              () {
+                print("count1 rebuild");
+                return Text('${controller.count1}');
+              },
+            ),
+            Obx(
+              () {
+                print("count2 rebuild");
+                return Text('${controller.count2}');
+              },
+            ),
+            Obx(() {
+              print("sum rebuild");
+              return Text('${controller.sum}');
+            }),
+            Obx(
+              () => Text('Name: ${controller.user.value?.name}'),
+            ),
+            Obx(
+              () => Text('Age: ${controller.user.value?.age}'),
+            ),
+            ElevatedButton(
+              child: Text("Go to last page"),
+              onPressed: () {
+                Get.toNamed('/third', arguments: 'arguments of second');
+              },
+            ),
+            ElevatedButton(
+              child: Text("Back page and open snackbar"),
+              onPressed: () {
+                Get.back();
+                Get.snackbar(
+                  'User 123',
+                  'Successfully created',
+                );
+              },
+            ),
+            ElevatedButton(
+              child: Text("Increment"),
+              onPressed: () {
+                controller.increment();
+              },
+            ),
+            ElevatedButton(
+              child: Text("Increment"),
+              onPressed: () {
+                controller.increment2();
+              },
+            ),
+            ElevatedButton(
+              child: Text("Update name"),
+              onPressed: () {
+                controller.updateUser();
+              },
+            ),
+            ElevatedButton(
+              child: Text("Dispose worker"),
+              onPressed: () {
+                controller.disposeWorker();
+              },
+            ),
+          ],
+        ),
       ),
     );
   }
 }
 
-class Menus extends StatelessWidget {
-  const Menus({
-    super.key,
-    required this.wlist,
-  });
-
-  final List<Widget> wlist;
-
+class Third extends GetView<ControllerX> {
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Wrap(
-        // mainAxisAlignment: MainAxisAlignment.center,
-        spacing: 18, // 水平方向间距
-        runSpacing: 20, // 垂直方向间距
-        children: wlist,
+    return Scaffold(
+      floatingActionButton: FloatingActionButton(onPressed: () {
+        controller.incrementList();
+      }),
+      appBar: AppBar(
+        title: Text("Third ${Get.arguments}"),
+      ),
+      body: Center(
+          child: Obx(() => ListView.builder(
+              itemCount: controller.list.length,
+              itemBuilder: (context, index) {
+                return Text("${controller.list[index]}");
+              }))),
+    );
+  }
+}
+
+class SampleBind extends Bindings {
+  @override
+  void dependencies() {
+    Get.lazyPut<ControllerX>(() => ControllerX());
+  }
+}
+
+class User {
+  User({this.name = 'Name', this.age = 0});
+  String name;
+  int age;
+}
+
+class ControllerX extends GetxController {
+  final count1 = 0.obs;
+  final count2 = 0.obs;
+  final list = [56].obs;
+  final user = User().obs;
+
+  updateUser() {
+    user.update((value) {
+      value!.name = 'Jose';
+      value.age = 30;
+    });
+  }
+
+  /// Once the controller has entered memory, onInit will be called.
+  /// It is preferable to use onInit instead of class constructors or initState method.
+  /// Use onInit to trigger initial events like API searches, listeners registration
+  /// or Workers registration.
+  /// Workers are event handlers, they do not modify the final result,
+  /// but it allows you to listen to an event and trigger customized actions.
+  /// Here is an outline of how you can use them:
+
+  /// made this if you need cancel you worker
+  late Worker _ever;
+
+  @override
+  onInit() {
+    /// Called every time the variable $_ is changed
+    _ever = ever(count1, (_) => print("$_ has been changed (ever)"));
+
+    everAll([count1, count2], (_) => print("$_ has been changed (everAll)"));
+
+    /// Called first time the variable $_ is changed
+    once(count1, (_) => print("$_ was changed once (once)"));
+
+    /// Anti DDos - Called every time the user stops typing for 1 second, for example.
+    debounce(count1, (_) => print("debouce$_ (debounce)"),
+        time: Duration(seconds: 1));
+
+    /// Ignore all changes within 1 second.
+    interval(count1, (_) => print("interval $_ (interval)"),
+        time: Duration(seconds: 1));
+  }
+
+  int get sum => count1.value + count2.value;
+
+  increment() => count1.value++;
+
+  increment2() => count2.value++;
+
+  disposeWorker() {
+    _ever.dispose();
+    // or _ever();
+  }
+
+  incrementList() => list.add(75);
+}
+
+class SizeTransitions extends CustomTransition {
+  @override
+  Widget buildTransition(
+      BuildContext context,
+      Curve? curve,
+      Alignment? alignment,
+      Animation<double> animation,
+      Animation<double> secondaryAnimation,
+      Widget child) {
+    return Align(
+      alignment: Alignment.center,
+      child: SizeTransition(
+        sizeFactor: CurvedAnimation(
+          parent: animation,
+          curve: curve!,
+        ),
+        child: child,
       ),
     );
   }
